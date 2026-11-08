@@ -1,1 +1,1 @@
-good
+Testing Jenkins automatic build
